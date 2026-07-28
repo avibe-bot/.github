@@ -20,11 +20,13 @@ Avibe drives the **official** Claude Code, Codex, and OpenCode — from your bro
 curl -fsSL https://avibe.bot/install.sh | bash && vibe
 ```
 
+<img src="assets/workbench-en.png" alt="The Avibe Workbench with a local Agent conversation and live work context" />
+
 ## What lives here
 
 | Repo | What it is |
 | --- | --- |
-| **[avibe](https://github.com/avibe-bot/avibe)** | The Agent OS itself: Workbench, Agent Harness, Skills, Show Pages, and all the chat-platform connectors. Start here. |
+| **[avibe](https://github.com/avibe-bot/avibe)** | The Agent OS itself: Workbench, multi-window Apps, Agent Harness, Vaults, Show Pages, Skills, and chat-platform connectors. Start here. |
 | **[askill](https://github.com/avibe-bot/askill)** | Package manager for AI agent skills. Install a skill once; every agent you run inherits it. |
 | **[avault](https://github.com/avibe-bot/avault)** | Rust key-custody core behind Avibe Vaults, the only component that holds keys or does crypto. |
 | **[vault-sandbox](https://github.com/avibe-bot/vault-sandbox)** | The crypto sandbox served at `sandbox.avibe.bot`. Public and auditable by design. |
@@ -56,11 +58,13 @@ Avibe 驱动的是**官方**的 Claude Code、Codex、OpenCode。你在浏览器
 curl -fsSL https://avibe.bot/install.sh | bash && vibe
 ```
 
+<img src="assets/workbench-zh.png" alt="Avibe Workbench 中的本地 Agent 对话与实时工作上下文" />
+
 ## 这里有什么
 
 | 仓库 | 是什么 |
 | --- | --- |
-| **[avibe](https://github.com/avibe-bot/avibe/blob/master/README_ZH.md)** | Agent OS 本体：Workbench、Agent Harness、Skills、Show Pages，以及所有聊天平台接入。从这里开始。 |
+| **[avibe](https://github.com/avibe-bot/avibe/blob/master/README_ZH.md)** | Agent OS 本体：Workbench、多窗口应用、Agent Harness、Vaults、Show Pages、Skills 与聊天平台接入。从这里开始。 |
 | **[askill](https://github.com/avibe-bot/askill)** | AI agent 技能的包管理器。技能装一次，你跑的每个 agent 都继承。 |
 | **[avault](https://github.com/avibe-bot/avault)** | Avibe Vaults 背后的 Rust 密钥托管核心，唯一持有密钥、执行加密操作的组件。 |
 | **[vault-sandbox](https://github.com/avibe-bot/vault-sandbox)** | 部署在 `sandbox.avibe.bot` 的加密沙箱，公开、可审计。 |
